@@ -2456,28 +2456,6 @@
        y1="143.95821"
        x2="62.225399"
        y2="218.91153" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8221"
-       id="radialGradient8243"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(7.706619e-2,-1.2492972e-2,5.5203175e-3,2.875896e-2,265.3917,262.79419)"
-       cx="201.19495"
-       cy="152.83488"
-       fx="201.19495"
-       fy="152.83488"
-       r="64.452026" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8213"
-       id="radialGradient8248"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1251873,2.0067292e-2,-1.0481758e-2,5.5222694e-2,268.87979,251.66165)"
-       cx="55.888435"
-       cy="238.67386"
-       fx="55.888435"
-       fy="238.67386"
-       r="98.818176" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8253"
@@ -2497,10 +2475,10 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="224.87676"
-     inkscape:cy="40.419521"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="2"
+     inkscape:cx="215.37676"
+     inkscape:cy="131.91952"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -2700,7 +2678,7 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="plate"
-       style="display:none">
+       style="display:inline">
       <rect
          inkscape:label="48x48"
          y="7.0000114"
@@ -2708,7 +2686,10 @@
          height="48"
          width="48"
          id="rect6284"
-         style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:export-filename="/media/sdb8/software_artwork/mudlet/mudlet_main_48px.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6592"
@@ -2716,7 +2697,10 @@
          height="32"
          x="270"
          y="100"
-         inkscape:label="32x32" />
+         inkscape:label="32x32"
+         inkscape:export-filename="/media/sdb8/software_artwork/mudlet/mudlet_main_32px.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect8104"
@@ -2732,7 +2716,10 @@
          height="22"
          width="22"
          id="rect6749"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:export-filename="/media/sdb8/software_artwork/mudlet/mudlet_main_22px.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6833"
@@ -2740,7 +2727,10 @@
          height="16"
          x="270"
          y="247"
-         inkscape:label="16x16" />
+         inkscape:label="16x16"
+         inkscape:export-filename="/media/sdb8/software_artwork/mudlet/mudlet_main_16px.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
       <rect
          style="opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6282"
@@ -2748,7 +2738,10 @@
          height="256"
          x="7"
          y="7"
-         inkscape:label="this is unneeded even" />
+         inkscape:label="this is unneeded even"
+         inkscape:export-filename="/media/sdb8/software_artwork/mudlet/mudlet_main_256px.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
