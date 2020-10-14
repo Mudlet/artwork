@@ -148,10 +148,10 @@ temp-img)
 ; layers for depths up to the current image depth
 (script-fu-register "script-fu-iconify"
 "<Image>/Script-Fu/Utils/Iconify"
-"Use the current layer of the current image to create a multi-sized, multi-depth Windows icon file"
-"Giuseppe Bilotta, Fixed By Roland Clobus for gimp 2.8+"
-"Giuseppe Bilotta, Fixed By Roland Clobus for gimp 2.8+"
-"20051021"
+"Use the current layer of the current image to create a multi-sized, multi-depth Windows icon file. Modified for Gimp 2.4.6+ by Ouch67. Fixed By Roland Clobus for gimp 2.8+"
+"Giuseppe Bilotta, Ouch67, Roland Clobus, Stephen Lyons"
+"Giuseppe Bilotta, Ouch67, Roland Clobus, Stephen Lyons"
+"20201013"
 "RGB*"
 SF-IMAGE "Image to iconify" 0
 SF-DRAWABLE "Layer to iconify" 0)
